@@ -3,3 +3,19 @@
 body{
     background: white;
 }
+
+#panic-icon {
+      font-size: 100px;
+      color: red;
+      margin-top: 30px;  /* üstten boşluk */
+      margin-bottom: 20px; /* alttan yazıya boşluk */
+      display: block;      /* alt satıra yazı gelsin */
+      margin-left: auto;
+      margin-right: auto;  /* ortalama */
+    }
+
+#excuse {
+      font-size: 24px;
+      font-weight: 500;
+      margin-bottom: 50px; 
+    }    
